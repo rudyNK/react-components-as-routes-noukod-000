@@ -1,8 +1,8 @@
 // ./src/index.js
- 
+
 import React from 'react';
 import ReactDOM from 'react-dom';
- 
+
 const Home = () => {
   return (
     <div>
@@ -10,7 +10,7 @@ const Home = () => {
     </div>
   );
 };
- 
+
 ReactDOM.render(
   <Home />,
   document.getElementById('root')
